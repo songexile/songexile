@@ -1,4 +1,8 @@
 Kia ora,
 I'm Otis.
 
-I enjoy working on full stack projects aswell as making beautiful websites.
+https://www.linkedin.com/in/otiswales/
+
+I love working on scripts, making beautiful websites and writing meaningful code.
+
+In my spare time I enjoy music production and watching films.
